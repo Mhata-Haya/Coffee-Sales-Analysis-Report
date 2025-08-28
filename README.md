@@ -22,9 +22,18 @@
 **Libraries:** Pandas, Matplotlib, Seaborn  
 **Environment:** Jupyter Notebook
 
-# Installation
+# ⚙️ Installation
+To replicate this project install the dependencies by running:  
 
-**To replicate this project install the dependencies by running: **
--   
+- https://github.com/vishuuu3/Coffee-Sales-Analysis-Report.git
 - cd CoffeeSales
 - pip install -r Requirements.txt
+
+# 🔮 Future Work
+This project focused on data cleaning, exploratory data analysis (EDA), and generating actionable business insights.
+In future iterations, I plan to:
+
+-Explore machine learning models to forecast future sales trends.
+
+# 📝 License
+This project is licensed under the Apache2 License - see the License file for more details.
