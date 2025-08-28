@@ -1,12 +1,12 @@
 # Coffee Vending Machine Sales Analysis
 
 # 📌 Project Overview
-This project presents a comprehensive analysis of sales data from a coffee vending machine. The goal is to uncover actionable insights regarding  **customer purchasing behavior, sales performance, payment preferences**, and **product popularity**.
+This project presents a comprehensive analysis of sales data from a coffee vending machine. The goal is to uncover actionable insights regarding  **customer purchasing behavior, sales performance, payment preferences**, and **product popularity**.  
 The findings are intended to support data-driven decision-making and optimize the vending machine's operational efficiency and profitability.
 
 # 🔍 Key Insights
 
-**💳 Preferred Payment Method:** Card payments dominate over cash transactions.
+**💳 Preferred Payment Method:** Card payments dominate over cash transactions.  
 **☕ Top-Selling Beverages:** Latte and Americano with Milk lead as the most popular items.
 **🕒 Peak Sales Hours:** Morning hours, particularly between 9 AM and 11 AM, record the highest transaction volume.
 **📅 Sales Distribution:** Sales are stronger on weekdays, with distinct patterns observed across different months.
