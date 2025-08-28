@@ -21,3 +21,10 @@
 **Programming:** Python 🐍  
 **Libraries:** Pandas, Matplotlib, Seaborn  
 **Environment:** Jupyter Notebook
+
+# Installation
+
+**To replicate this project install the dependencies by running: **
+-   
+- cd CoffeeSales
+- pip install -r Requirements.txt
