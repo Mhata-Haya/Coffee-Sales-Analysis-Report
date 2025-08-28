@@ -7,17 +7,17 @@ The findings are intended to support data-driven decision-making and optimize th
 # 🔍 Key Insights
 
 **💳 Preferred Payment Method:** Card payments dominate over cash transactions.  
-**☕ Top-Selling Beverages:** Latte and Americano with Milk lead as the most popular items.
-**🕒 Peak Sales Hours:** Morning hours, particularly between 9 AM and 11 AM, record the highest transaction volume.
-**📅 Sales Distribution:** Sales are stronger on weekdays, with distinct patterns observed across different months.
-**🎯 Customer Retention:** A small subset of loyal customers is responsible for a significant proportion of repeat purchases.
+**☕ Top-Selling Beverages:** Latte and Americano with Milk lead as the most popular items.  
+**🕒 Peak Sales Hours:** Morning hours, particularly between 9 AM and 11 AM, record the highest transaction volume.  
+**📅 Sales Distribution:** Sales are stronger on weekdays, with distinct patterns observed across different months.  
+**🎯 Customer Retention:** A small subset of loyal customers is responsible for a significant proportion of repeat purchases.  
 
-# 🎯 Next Steps / Recommendations
-Consider offering promotions during non-peak hours to balance the sales load.
-Analyze customer cards further to identify demographics behind loyal customers.
-Monitor the least popular products to assess if they should be replaced or promoted differently.
+# 🎯 Next Steps / Recommendations  
+Consider offering promotions during non-peak hours to balance the sales load.  
+Analyze customer cards further to identify demographics behind loyal customers.  
+Monitor the least popular products to assess if they should be replaced or promoted differently.  
 
 # 🛠️ Tools and Technologies
-**Programming:** Python 🐍
-**Libraries:** Pandas, Matplotlib, Seaborn
+**Programming:** Python 🐍  
+**Libraries:** Pandas, Matplotlib, Seaborn  
 **Environment:** Jupyter Notebook
